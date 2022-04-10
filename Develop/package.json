@@ -1,14 +1,26 @@
 {
-  "name": "static-site",
+  "name": "create-readme",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create README file through command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancs214/createREADME.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Ashley-Noel Swarn",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancs214/createREADME/issues"
+  },
+  "homepage": "https://github.com/ancs214/createREADME#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.2"
   }
 }
