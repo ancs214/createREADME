@@ -1,8 +1,8 @@
-# createREADME 
+# Taskmaster-Pro 
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # Table of Contents:
+ ## Table of Contents:
 
   - [Description](#Description)
 
@@ -20,22 +20,22 @@
   - [Questions](#Questions)
 
   ## Description: 
-  This is an application that allows developers to create a README file for their project using the command line. As developers, we have so many different Github repositories…but one important thing they all have in common is the README file. It can be a pain to continuously make these files over and over again. This app dynamically generates a README file from the user’s input using the Inquirer npm.
+  This is a basic task application that allows users to store tasks in Kanban format with “To Do”, “In Progress”, “In Review”, and “Done” lists. As a user makes a task, they create a due date. When the due date is approaching, the task background will turn yellow. If a due date is passed, the background will turn red. These tasks are draggable from one list to the other and stored in local storage for later use. 
 
   ## Installation: 
-  For installation, simply clone or fork the repository code to your computer. 
+  To install, simply clone this GitHub repository to your computer. You also have the option to access the app through the GitHub pages link: https://ancs214.github.io/taskmaster-pro/
 
   ## Usage: 
-  Type “node index” in the command line to initialize the application. Answer the prompts to create the README sections. After you’re done answering the prompts, a README file will be created under newREADME.md! Copy and paste or drag the file into the README section in your Github repository. 
+  Simply click “Add Task”, create your task, and pick a due date. It will auto-populate to the “To Do” list, then you can drag and drop the task to any list you’d like. There is an option to delete all tasks on the left if you want to start over, or you can select specific tasks to drag to the bottom trash. 
 
   ## License: 
   'This project is licensed under MIT: https://opensource.org/licenses/MIT
 
   ## Contributing: 
-  Initial code content was created by: Xander Rapstine https://github.com/Xandromus and Grace Choi https://github.com/gchoi2u 
+  Feel free to contribute to this application to enhance user experience! Developers can clone or fork the repo and make pull requests to create changes. 
 
   ## Tests: 
-  <insert video link here>
+  No current tests exist for this web app
 
   ## Questions: 
   https://github.com/ancs214
