@@ -1,20 +1,43 @@
-# Professional README Generator Starter Code
+# createREADME 
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Table of Contents:
+
+  - [Description](#Description)
 
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+  - [Installation](#Installation)
+
+  - [Usage](#Usage)
+
+  - [License](#License)
+
+  - [Contributing](#Contributing)
+
+  - [Tests](#tests)
+
+  - [Questions](#Questions)
+
+  ## Description: 
+  This is an application that allows developers to create a README file for their project using the command line. As developers, we have so many different Github repositories…but one important thing they all have in common is the README file. It can be a pain to continuously make these files over and over again. This app dynamically generates a README file from the user’s input using the Inquirer npm.
+
+  ## Installation: 
+  For installation, simply clone or fork the repository code to your computer. 
+
+  ## Usage: 
+  Type “node index” in the command line to initialize the application. Answer the prompts to create the README sections. After you’re done answering the prompts, a README file will be created under newREADME.md! Copy and paste or drag the file into the README section in your Github repository. 
+
+  ## License: 
+  'This project is licensed under MIT: https://opensource.org/licenses/MIT
+
+  ## Contributing: 
+  Initial code content was created by: Xander Rapstine https://github.com/Xandromus and Grace Choi https://github.com/gchoi2u 
+
+  ## Tests: 
+  <insert video link here>
+
+  ## Questions: 
+  https://github.com/ancs214
+
+  Please feel free to reach out to me at ancs214@gmail.com with any additional questions, comments, or concerns!
