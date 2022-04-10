@@ -35,7 +35,8 @@
   Initial code content was created by: Xander Rapstine https://github.com/Xandromus and Grace Choi https://github.com/gchoi2u 
 
   ## Tests: 
-  <insert video link here>
+  Link to demo video:
+  https://drive.google.com/file/d/1d9CmGrqGkNm0i_TKepxJJLJNtuQAj24-/view
 
   ## Questions: 
   https://github.com/ancs214
